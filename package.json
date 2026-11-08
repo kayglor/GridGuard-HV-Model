@@ -1,0 +1,12 @@
+{
+  "name": "gridguard-hv-model",
+  "version": "0.1.0",
+  "description": "Concept-stage financial model and enterprise plan for GridGuard HV Services (HV maintenance business). All figures are assumptions.",
+  "private": true,
+  "scripts": {
+    "build": "node src/build_enterprise.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
