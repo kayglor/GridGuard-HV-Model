@@ -45,4 +45,4 @@ AI and automation in this concept are advisory only. Isolation, switching, retur
 
 ## Status
 
-Concept. No license has been chosen for this repository, so by default all rights are reserved. Add a `LICENSE` file if you want others to reuse it.
+Concept. All rights reserved: see [LICENSE](LICENSE). The repository is public for viewing only; reuse needs written permission from the copyright holder.
